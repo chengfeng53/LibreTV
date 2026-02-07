@@ -33,6 +33,6 @@ jobs:
           push: true
           platforms: linux/amd64,linux/arm64
           tags: |
-            chengfeng53/libretv:latest
-            chengfeng53/libretv:${{ github.sha }}
+            chengfeng5312/libretv:latest
+            chengfeng5312/libretv:${{ github.sha }}
 
