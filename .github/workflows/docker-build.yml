@@ -35,4 +35,3 @@ jobs:
           tags: |
             chengfeng5312/libretv:latest
             chengfeng5312/libretv:${{ github.sha }}
-
