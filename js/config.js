@@ -137,14 +137,14 @@ const API_SITES = {
         name: 'jkun资源',
         adult: true
     },
-    bwzy: {
-        api: 'https://api.bwzym3u8.com/api.php/provide/vod',
-        name: '百万资源',
+    leba: {
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: '乐播资源',
         adult: true
     },
-    souav: {
-        api: 'https://api.souavzy.vip',
-        name: 'souav资源',
+    naix: {
+        api: 'https://naixxzy.com/api.php/provide/vod',
+        name: '奶香香资源',
         adult: true
     },
     r155: {
@@ -152,14 +152,14 @@ const API_SITES = {
         name: '155资源',
         adult: true
     },
-    lsb: {
+    lsbz: {
         api: 'https://apilsbzy1.com/api.php/provide/vod',
         name: 'lsb资源',
         adult: true
     },
-    huangcang: {
-        api: 'https://hsckzy.vip/api.php/provide/vod',
-        name: '黄色仓库',
+    mado: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: '91麻豆',
         adult: true,
         detail: 'https://hsckzy.vip/api.php/provide/vod'
     },
