@@ -160,8 +160,7 @@ const API_SITES = {
     mado: {
         api: 'https://91md.me/api.php/provide/vod',
         name: '91麻豆',
-        adult: true,
-        detail: 'https://hsckzy.vip/api.php/provide/vod'
+        adult: true
     },
     yutu: {
         api: 'https://yutuzy10.com/api.php/provide/vod',
