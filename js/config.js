@@ -157,11 +157,6 @@ const API_SITES = {
         name: 'lsb资源',
         adult: true
     },
-    mado: {
-        api: 'https://91md.me/api.php/provide/vod',
-        name: '91麻豆',
-        adult: true
-    },
     yutu: {
         api: 'https://yutuzy10.com/api.php/provide/vod',
         name: '玉兔资源',
